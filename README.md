@@ -1,0 +1,2 @@
+# Vehicle-vertical-dynamics-modelling-and-Skyhook-controller-test
+建立了包含座椅的车辆多自由垂向动力学模型，并设计了基于天棚原理的简单控制器，对比了车辆在通过减速带与C级随机路面时的各自由度加速度
